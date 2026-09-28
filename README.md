@@ -19,7 +19,6 @@ An AI-driven operations terminal for an IT-parts reselling business, with an **a
 ## 🔧 Also built
 
 - **Blanco OS** (private): my own multi-agent ops platform. FastAPI, 171+ tests, and chat routing to a local agent gateway or headless Claude Code
-- **[AI Business Automator](https://github.com/aaron27white-source/ai-business-automator):** replaced 4 fragile n8n workflows with one FastAPI service for LLM email classification, lead enrichment and auto-replies
 - **[IT Inventory Tracker](https://github.com/aaron27white-source/it-inventory-tracker):** asset-management REST API with an audit trail and CSV import/export
 - **[ETL Pipeline](https://github.com/aaron27white-source/etl-pipeline):** CLI data pipeline with run tracking and error observability
 
