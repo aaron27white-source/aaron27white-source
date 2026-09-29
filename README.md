@@ -1,6 +1,6 @@
 # Aaron White
 
-**AI Agent Engineer** · Houston, TX
+**AI & Automation** · Houston, TX
 
 I build agents that run on their own, do real work, and get measured. If an agent doesn't earn its cost, it gets switched off.
 I also run live AV production at a major Houston hotel, where the system has to work the first time in front of a full room. I build software with the same rule.
@@ -19,6 +19,7 @@ An AI-driven operations terminal for an IT-parts reselling business, with an **a
 ## 🔧 Also built
 
 - **[Blanco OS](https://github.com/aaron27white-source/blanco-os):** my personal agentic OS. One command deck for tasks, money, businesses and a fleet of AI agents (OpenClaw, Claude Code, Hermes) behind one streaming console. FastAPI + SQLite, live SSE updates, 269 tests, and a fictional demo vault so it runs in two minutes
+- **[Kyra](https://github.com/aaron27white-source/kyra):** AI receptionist that wins back missed calls for home-service businesses. I built missed-call text-back, AI callbacks, automations and quotes/invoices on top of the open-source LobbyStack. TypeScript, PostgreSQL with row-level security, Twilio, and a cross-business isolation test
 - **[IT Inventory Tracker](https://github.com/aaron27white-source/it-inventory-tracker):** asset-management REST API with an audit trail and CSV import/export
 - **[ETL Pipeline](https://github.com/aaron27white-source/etl-pipeline):** CLI data pipeline with run tracking and error observability
 
