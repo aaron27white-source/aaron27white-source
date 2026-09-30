@@ -38,4 +38,4 @@ An AI-driven operations terminal for an IT-parts reselling business, with an **a
 
 ## 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/aaron-white-b4b197331) · [key20co.com](https://key20co.com) · aaron27white@gmail.com
+[LinkedIn](https://www.linkedin.com/in/aaronwhiteautomation) · [key20co.com](https://key20co.com) · aaron27white@gmail.com
