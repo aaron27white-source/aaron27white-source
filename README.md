@@ -1,6 +1,6 @@
 # Aaron White
 
-**AI & Automation** · Houston, TX
+**AI & Automation Engineer** · Houston, TX
 
 I build agents that run on their own, do real work, and get measured. If an agent doesn't earn its cost, it gets switched off.
 I also run live AV production at a major Houston hotel, where the system has to work the first time in front of a full room. I build software with the same rule.
